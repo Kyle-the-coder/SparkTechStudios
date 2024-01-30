@@ -1,5 +1,5 @@
 import { createBrowserRouter } from "react-router-dom";
-import { landingRoute } from "./Pages/LandingPage/LandingPage";
+import { landingRoute } from "./pages/LandingPage/LandingPage";
 import { NavLayout } from "./layouts/NavLayout";
 import { ErrorLayout } from "./layouts/ErrorLayout";
 
