@@ -15,14 +15,14 @@ body {
 
 @font-face {
   font-family: "Font1";
-  src: url("/public/fonts/Montserrat-VariableFont_wght.ttf") format("truetype");
+  src: url("/fonts/Montserrat-VariableFont_wght.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Font2";
-  src: url("/public/fonts/RobotoMono-VariableFont_wght.ttf") format("truetype");
+  src: url("/fonts/RobotoMono-VariableFont_wght.ttf") format("truetype");
 }
 
 .font-white {
